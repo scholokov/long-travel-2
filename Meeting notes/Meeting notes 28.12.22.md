@@ -10,7 +10,7 @@
 
 ## Action items:  
 
-https://github.com/scholokov/long-travel-2/issues/1596 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina) 
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/1596 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina) 
 
-https://github.com/scholokov/long-travel-2/issues/1597 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/1597 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
 
