@@ -1,12 +1,3 @@
-Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
-
-### List of meetings ✍️ 
-
-| Meeting Title                                     | Date              | 
-|---------------------------------------------------|-------------------|
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2028.12.22.md) | 28/12/2022 | 
-
-
 ## ✈️: QAX Travel 2.0 🚅: 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QAX+Travel+Job_offer)](https://git.io/typing-svg) 
@@ -25,3 +16,10 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)](https://portal.qax-camp.com.ua)  
 
+Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
+
+### List of meetings ✍️ 
+
+| Meeting Title                                     | Date              | 
+|---------------------------------------------------|-------------------|
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2028.12.22.md) | 28/12/2022 | 
