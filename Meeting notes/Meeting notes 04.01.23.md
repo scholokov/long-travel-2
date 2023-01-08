@@ -17,3 +17,7 @@
 :black_square_button: For QA team check all pages. Please prioritize your bugs. 
 
 :black_square_button: For Dev team please fix bugs 
+
+:black_square_button: Add new PM to team page and update team page 
+
+
