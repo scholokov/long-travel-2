@@ -16,7 +16,7 @@
 
 [![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)](https://portal.qax-camp.com.ua) 
 
-[![Снимок](https://user-images.githubusercontent.com/72439798/211194187-64aad7ab-2fa0-4ecd-831a-a3ff88b43155.PNG)](https://portal.qax-camp.com.ua) 
+[![Снимок](https://user-images.githubusercontent.com/72439798/211194187-64aad7ab-2fa0-4ecd-831a-a3ff88b43155.PNG)](https://test.long-travel.live/) 
 
 Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
 
