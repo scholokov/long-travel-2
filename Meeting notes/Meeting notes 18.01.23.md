@@ -2,14 +2,14 @@
 
 ## Discussion topics:   
 
-:white_check_mark: Discuss tasks for creating new board - 10 min  
+:black_square_button: Discuss tasks for creating new board - 10 min  
 
-:white_check_mark: New UI/UX design  - 10 min
+:black_square_button: New UI/UX design  - 10 min
 
-:white_check_mark: Questions from Team - 10 min 
+:black_square_button: Questions from Team - 10 min 
 
-:white_check_mark: Evaluate the current advancement
+:black_square_button: Evaluate the current advancement
 
-:white_check_mark: Prioritize the ongoing tasks 
+:black_square_button: Prioritize the ongoing tasks 
 
-:white_check_mark: Decided how to speed up design development 
+:black_square_button: Decided how to speed up design development 
