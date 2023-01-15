@@ -2,7 +2,7 @@
 
 ## Discussion topics:   
 
-:white_check_mark: New UI/UX design - 10 min
+:white_check_mark: New UI/UX design  
 
 :white_check_mark: Evaluate the current advancement
 
