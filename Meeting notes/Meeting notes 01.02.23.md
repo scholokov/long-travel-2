@@ -33,6 +33,4 @@
 
 :black_square_button: For Dev team please fix bugs 
 
-:black_square_button: Add new PM to team page and update team page of QA team https://github.com/scholokov/long-travel-2/wiki/3.3-Team-page
-
-:black_square_button: For PM's add tasks for QA team 
+:white_check_mark:  For PM's add tasks for QA team 
