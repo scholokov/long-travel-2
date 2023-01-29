@@ -6,11 +6,12 @@
 
 :black_square_button: Questions from Team - 10 min 
 
+:black_square_button: Decided how to speed up design development  - 10 min 
+
 :black_square_button: Evaluate the current advancement
 
 :black_square_button: Prioritize the ongoing tasks 
 
-:black_square_button: Decided how to speed up design development 
 
 ## Prioritised action items:   
 
