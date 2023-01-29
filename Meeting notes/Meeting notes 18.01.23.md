@@ -1,4 +1,4 @@
-# Meeting notes 18.01.23 - Draft 
+# Meeting notes 18.01.23
 
 ## Discussion topics:   
 
