@@ -20,6 +20,8 @@
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/3011 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)   
 
+:black_square_button: Check and move all tasks and bugs to the new board - all team 
+
 :black_square_button: For QA team check all pages. Please prioritize your bugs. 
 
 :black_square_button: For Dev team please fix bugs 
