@@ -23,7 +23,7 @@
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/3011 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)   
 
-:black_square_button: Create task for Dev to implement Ui/UX design - https://github.com/scholokov/long-travel-2/issues/1596 - High prior 
+:white_check_mark:  Create task for testing data: https://github.com/scholokov/long-travel-2/issues/3079 and for Dev to implement Ui/UX design https://github.com/scholokov/long-travel-2/issues/3078 - High prior
 
 :black_square_button: Check and move all tasks and bugs to the new board - all team 
 
