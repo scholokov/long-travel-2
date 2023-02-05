@@ -4,11 +4,23 @@
 
 :black_square_button: New UI/UX design  - 10 min
 
+:black_square_button: Discuss about next release - 10 min (planting date of release  15.02.2023) 
+
+:black_square_button:  Discuss about prepare regression test for QA team  
+
+:black_square_button: For PM create task for regression test. QA team for regression test: 
+
+[QA_Dmitrii Nasonov](https://github.com/DmitriiNasonov)  
+
+[QA_Nadiy Godovanets](https://github.com/Nadiyk) 
+
+[QA_Svitlana](https://github.com/SOlkhova) 
+
 :black_square_button: Questions from Team - 10 min 
 
-:black_square_button:  Decided how to speed up design development  - 10 min 
+:black_square_button: Decided how to speed up design development  - 10 min 
 
-:black_square_button:  Evaluate the current advancement
+:black_square_button: Evaluate the current advancement
 
 :black_square_button: Prioritize the ongoing tasks 
 
