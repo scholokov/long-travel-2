@@ -24,6 +24,7 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 
 | Meeting Title                                     | Date              | 
 |---------------------------------------------------|-------------------|
+| [Meeting notes](Meeting%20notes/Meeting%20notes%2008.02.23.md) | 08/02/2023 | 
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2001.02.23.md) | 01/02/2023 |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2018.01.23.md) | 18/01/2023 |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2011.01.23.md) | 11/01/2023 |
