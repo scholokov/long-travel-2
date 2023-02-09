@@ -16,6 +16,8 @@
 
 [QA_Svitlana](https://github.com/SOlkhova) 
 
+[Natalia Huzyr](https://github.com/GNatala)
+
 :black_square_button: Questions from Team - 10 min 
 
 :black_square_button: Decided how to speed up design development  - 10 min 
