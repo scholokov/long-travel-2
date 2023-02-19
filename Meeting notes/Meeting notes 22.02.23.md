@@ -20,21 +20,21 @@
 
 ## Prioritised action items:   
 
-:black_square_button: https://github.com/scholokov/long-travel-2/issues/1596 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina) - moved to done 
-
-Task to implement for Dev: https://github.com/scholokov/long-travel-2/issues/3078 
-
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/2309 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/1597 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/3011 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)   
 
-:black_square_button: https://github.com/scholokov/long-travel-2/issues/1587 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)   
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/1587 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)    
+ 
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/3148  High prior [AlonaSarapina](https://github.com/AlonaSarapina)     
 
-:black_square_button: Check and move all tasks and bugs to the new board - all team 
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/3149 High prior [AlonaSarapina](https://github.com/AlonaSarapina)     
 
-:black_square_button: For QA team check all pages. Please prioritize your bugs. 
+:white_check_mark:  https://github.com/scholokov/long-travel-2/issues/1596 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina) - moved to done 
+
+Task to implement for Dev: https://github.com/scholokov/long-travel-2/issues/3078  
 
 :black_square_button: For Dev team please fix bugs 
 
