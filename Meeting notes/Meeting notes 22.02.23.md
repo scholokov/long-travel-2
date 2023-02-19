@@ -20,7 +20,9 @@
 
 ## Prioritised action items:   
 
-:black_square_button: https://github.com/scholokov/long-travel-2/issues/1596 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina) 
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/1596 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina) - moved to done 
+
+Task to implement for Dev: https://github.com/scholokov/long-travel-2/issues/3078 
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/2309 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
 
