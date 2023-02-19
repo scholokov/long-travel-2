@@ -8,7 +8,7 @@
 
 :black_square_button:  Discuss about regression test for QA team  
 
-:black_square_button: For PM create task for regression test. QA team for regression test: 
+:black_square_button: For PM create task for regression test. QA team for regression test: https://github.com/scholokov/long-travel-2/issues/new 
 
 [QA_Dmitrii Nasonov](https://github.com/DmitriiNasonov)  
 
