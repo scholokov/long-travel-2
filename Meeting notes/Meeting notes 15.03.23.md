@@ -2,7 +2,7 @@
 
 ## Discussion topics: 
 
-:black_square_button: deploy all updates to product [Denis Scholokov](https://github.com/scholokov)  - 10 min 
+:black_square_button: Deploy all updates to product version [Denis Scholokov](https://github.com/scholokov)  - 10 min 
 
 :black_square_button: Regression test and regression tasks for QA team - 10 min
 
