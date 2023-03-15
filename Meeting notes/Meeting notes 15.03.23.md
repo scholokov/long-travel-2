@@ -1,14 +1,14 @@
-# Meeting notes 22.02.23
+# Meeting notes 15.03.23 [Draft] 
 
 ## Discussion topics: 
 
+:black_square_button: deploy all updates to product [Denis Scholokov](https://github.com/scholokov)  - 10 min 
+
+:black_square_button: Regression test and regression tasks for QA team - 10 min
+
 :black_square_button: New UI/UX design  - 10 min
 
-:black_square_button: Discuss about next release - 10 min (dicision of planing date of release) 
-
-:black_square_button:  Discuss about regression test for QA team  
-
-:black_square_button: For PM create task for regression test. QA team for regression test: https://github.com/scholokov/long-travel-2/issues/new 
+:black_square_button: For PM create task for regression test. QA team for regression test: [https://github.com/scholokov/long-travel-2/issues/new ](https://github.com/scholokov/long-travel-2/issues/3150)
 
 [QA_Dmitrii Nasonov](https://github.com/DmitriiNasonov)  
 
