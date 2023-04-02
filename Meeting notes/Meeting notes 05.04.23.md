@@ -2,15 +2,11 @@
 
 ## Discussion topics: 
 
-:black_square_button: Deploy all updates to product version [Denis Scholokov](https://github.com/scholokov)  - 10 min 
-
 :black_square_button: Regression test and regression tasks for QA team - 10 min
 
 :black_square_button: New UI/UX design  - 10 min
 
 :black_square_button: For PM create task for regression test. QA team for regression test: [https://github.com/scholokov/long-travel-2/issues/new ](https://github.com/scholokov/long-travel-2/issues/3150)
-
-[QA_Dmitrii Nasonov](https://github.com/DmitriiNasonov)  
 
 [QA_Nadiy Godovanets](https://github.com/Nadiyk) 
 
