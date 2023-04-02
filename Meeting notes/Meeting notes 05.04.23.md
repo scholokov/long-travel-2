@@ -14,7 +14,9 @@
 
 [Natalia Huzyr](https://github.com/GNatala) 
 
-We need to check checklists
+:black_square_button: We need to check checklists and runs from QA team 
+
+:black_square_button: We need to discuss new requirements 
 
 ## Prioritised action items:   
 
