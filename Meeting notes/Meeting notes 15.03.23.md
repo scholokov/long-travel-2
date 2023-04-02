@@ -1,4 +1,4 @@
-# Meeting notes 15.03.23 [Draft] 
+# Meeting notes 15.03.23 
 
 ## Discussion topics: 
 
