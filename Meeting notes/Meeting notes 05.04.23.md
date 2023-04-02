@@ -14,6 +14,8 @@
 
 [Natalia Huzyr](https://github.com/GNatala) 
 
+We need to check checklists
+
 ## Prioritised action items:   
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/2309 - Very High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
