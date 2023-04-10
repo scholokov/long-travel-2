@@ -4,6 +4,8 @@
 
 :black_square_button: For QA team send your regression plan to [Denis Scholokov](https://github.com/scholokov) 
 
+:black_square_button: Check your email and find notifications from Github and then create comments with status. All tasks without comments will be be withdrawn. 
+
 :black_square_button: Regression test and regression tasks for QA team - 10 min
 
 :black_square_button: New UI/UX design  - 10 min
