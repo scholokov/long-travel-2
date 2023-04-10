@@ -2,7 +2,7 @@
 
 ## Discussion topics: 
 
-:black_square_button: For QA team send your regression to [Denis Scholokov](https://github.com/scholokov) 
+:black_square_button: For QA team send your regression plan to [Denis Scholokov](https://github.com/scholokov) 
 
 :black_square_button: Regression test and regression tasks for QA team - 10 min
 
