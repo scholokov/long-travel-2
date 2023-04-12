@@ -2,6 +2,11 @@
 
 ## Discussion topics: 
 
+:black_square_button: Questions from Tanya 
+
+1. Най всі, прям під час мітингу залишать хоч якийсь комент під тасками над якими вони працюють. 
+2. Нагадати, що після мітингу таски без коментів я очищу та поверну в Ту ду. Тому бажано залишити хоч якийсь комент.
+
 :black_square_button: For QA team send your regression plan to [Denis Scholokov](https://github.com/scholokov) 
 
 :black_square_button: Check your email and find notifications from Github and then create comments with status. All tasks without comments will be be withdrawn. 
