@@ -1,4 +1,4 @@
-# Meeting notes 12.04.23 [Draft] 
+# Meeting notes 12.04.23 
 
 ## Discussion topics: 
 
@@ -7,15 +7,15 @@
 1. Най всі, прям під час мітингу залишать хоч якийсь комент під тасками над якими вони працюють. 
 2. Нагадати, що після мітингу таски без коментів я очищу та поверну в Ту ду. Тому бажано залишити хоч якийсь комент.
 
-:black_square_button: For QA team send your regression plan to [Denis Scholokov](https://github.com/scholokov) 
+:white_check_mark:  For QA team send your regression plan to [Denis Scholokov](https://github.com/scholokov) 
 
-:black_square_button: Check your email and find notifications from Github and then create comments with status. All tasks without comments will be be withdrawn. 
+:white_check_mark:  Check your email and find notifications from Github and then create comments with status. All tasks without comments will be be withdrawn. 
 
-:black_square_button: Regression test and regression tasks for QA team - 10 min
+:white_check_mark:  Regression test and regression tasks for QA team - 10 min
 
-:black_square_button: New UI/UX design  - 10 min
+:white_check_mark:  New UI/UX design  - 10 min
 
-:black_square_button: For PM create task for regression test. QA team for regression test: [https://github.com/scholokov/long-travel-2/issues/new ](https://github.com/scholokov/long-travel-2/issues/3150)
+:white_check_mark:  For PM create task for regression test. QA team for regression test: [https://github.com/scholokov/long-travel-2/issues/new ](https://github.com/scholokov/long-travel-2/issues/3150)
 
 [QA_Nadiy Godovanets](https://github.com/Nadiyk) 
 
