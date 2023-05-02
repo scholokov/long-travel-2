@@ -2,15 +2,15 @@
 
 ## Discussion topics: 
 
-:black_square_button: Create new tasks for QA team  
+:white_check_mark: Create new tasks for QA team  
 
-:black_square_button: Add new QA to our team 
+:white_check_mark: Add new QA to our team 
 
-:black_square_button: For QA team send your regression plan to [Denis Scholokov](https://github.com/scholokov) than start to Do 
+:white_check_mark: For QA team send your regression plan to [Denis Scholokov](https://github.com/scholokov) than start to Do 
 
-:black_square_button: Speed up new UI/UX design  - 10 min
+:white_check_mark: Speed up new UI/UX design  - 10 min
 
-:black_square_button: Discuss new requirements 
+:white_check_mark: Discuss new requirements 
 
 ## Prioritised action items:   
 
