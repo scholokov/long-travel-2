@@ -17,8 +17,10 @@
 :black_square_button: Ask about start new vesion of the Travel [Denis Scholokov](https://github.com/scholokov) 
 
 
+
 ## Prioritised action items:   
 
+:black_square_button: New task for QA: https://github.com/scholokov/long-travel-2/issues/3543
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/1597 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
 
