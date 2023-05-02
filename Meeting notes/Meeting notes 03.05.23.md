@@ -14,6 +14,8 @@
 
 :black_square_button: Discuss new requirements 
 
+:black_square_button: Ask about start new vesion of the Travel @scholokov
+
 ## Prioritised action items:   
 
 
