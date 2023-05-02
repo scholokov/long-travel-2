@@ -10,11 +10,12 @@
 
 :black_square_button: Speed up new UI/UX design  - 10 min 
 
-:black_square_button: Add new designer to the UI/UX tasks 
+:black_square_button: Add new designer to the UI/UX tasks - First accordion design ) 
 
 :black_square_button: Discuss new requirements 
 
 :black_square_button: Ask about start new vesion of the Travel [Denis Scholokov](https://github.com/scholokov) 
+
 
 ## Prioritised action items:   
 
