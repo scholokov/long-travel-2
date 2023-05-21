@@ -4,17 +4,14 @@
 
 :black_square_button: Check task in Ready for testing column [Alex Batalov](https://github.com/ABatalov), [Tetiana Sheremet](https://github.com/tatianasheremet) 
 
-:black_square_button: Add new QA to our team 
-
-:black_square_button: Send lind with draft for regression to the chart [Alex Batalov](https://github.com/ABatalov) 
+:black_square_button: Send link with draft for regression to the chart [Alex Batalov](https://github.com/ABatalov) 
 
 :black_square_button: Speed up new UI/UX design  [AlonaSarapina](https://github.com/AlonaSarapina)  
 
-:black_square_button: Discuss new requirements 
-
-:black_square_button: Ask about start new vesion of the Travel [Denis Scholokov](https://github.com/scholokov) 
 
 ## Prioritised action items:   
+
+[AlonaSarapina](https://github.com/AlonaSarapina) A priority for Travel is second for UI/UX design after Portal  
 
 :black_square_button: New task for QA: https://github.com/scholokov/long-travel-2/issues/3543
 
