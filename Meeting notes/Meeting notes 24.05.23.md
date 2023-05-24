@@ -4,8 +4,6 @@
 
 :black_square_button: Check task in Ready for testing column [Alex Batalov](https://github.com/ABatalov), [Tetiana Sheremet](https://github.com/tatianasheremet) 
 
-:black_square_button: Send link with draft for regression to the chart [Alex Batalov](https://github.com/ABatalov) 
-
 :black_square_button: Speed up new UI/UX design  [AlonaSarapina](https://github.com/AlonaSarapina)  
 
 
