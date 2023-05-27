@@ -2,24 +2,23 @@
 
 ## Discussion topics: 
 
-:black_square_button: To do Retro of the Travel project - 20 min! Link is here https://metroretro.io/board/LBZLQY6YBTKV 
+:black_square_button: To do Retro of the Travel project - 20 min! For all team please add your comments to the our Retro board https://metroretro.io/board/LBZLQY6YBTKV
 
 :black_square_button: Discuss questions from the team - 10 min!  
 
-## Discussion topics:  
 
-:black_square_button: for all team please add your comments to the our Retro board https://metroretro.io/board/LBZLQY6YBTKV
+
+
+
+## Prioritised action items:   
+
+:black_square_button: New task for QA: https://github.com/scholokov/long-travel-2/issues/3543
 
 :black_square_button: Check task in Ready for testing column [Alex Batalov](https://github.com/ABatalov), [Tetiana Sheremet](https://github.com/tatianasheremet) 
 
 :black_square_button: Speed up new UI/UX design  [AlonaSarapina](https://github.com/AlonaSarapina)  
 
-
-## Prioritised action items:   
-
-[AlonaSarapina](https://github.com/AlonaSarapina) A priority for Travel is second for UI/UX design after Portal  
-
-:black_square_button: New task for QA: https://github.com/scholokov/long-travel-2/issues/3543
+[AlonaSarapina](https://github.com/AlonaSarapina) A priority for Travel is second for UI/UX design after Portal:   
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/1597 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)  
 
