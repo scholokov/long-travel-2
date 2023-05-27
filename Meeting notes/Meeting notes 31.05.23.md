@@ -2,7 +2,7 @@
 
 ## Discussion topics: 
 
-:black_square_button: To do Retro of the Travel project - 10 min!
+:black_square_button: To do Retro of the Travel project - 20 min! Link is here https://metroretro.io/board/LBZLQY6YBTKV 
 
 :black_square_button: Discuss questions from the team - 10 min!  
 
