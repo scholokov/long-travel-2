@@ -1,11 +1,10 @@
-# Meeting notes 21.05.23
+# Meeting notes 21.06.23
 
 ## Discussion topics: 
 
 :black_square_button: To do Retro of the Travel project - 20 min! For all team please add your comments to the our Retro board https://metroretro.io/board/LBZLQY6YBTKV
 
 :black_square_button: Discuss questions from the team - 10 min!  
-
 
 
 
