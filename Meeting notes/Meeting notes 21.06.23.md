@@ -2,7 +2,7 @@
 
 ## Discussion topics: 
 
-:black_square_button: Add you stikers to the Actions board [QA_ViktoriaZamkova](https://github.com/ViktoriaZamkova) and  [QA_Hennadii Prokopenko](https://github.com/prokopenkoga1977) https://metroretro.io/board/LBZLQY6YBTKV
+:black_square_button: Add you stikers to the Actions board [ViktoriaZamkova](https://github.com/ViktoriaZamkova) and  [Hennadii Prokopenko](https://github.com/prokopenkoga1977) https://metroretro.io/board/LBZLQY6YBTKV
 
 :black_square_button: Discuss questions from the team - 10 min!  
 
