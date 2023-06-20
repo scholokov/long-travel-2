@@ -2,9 +2,9 @@
 
 ## Discussion topics: 
 
-:black_square_button: Discuss issues for all team members  
+:black_square_button: Discuss issues for all team members - 10 min!
 
-:black_square_button: Add you stikers to the Actions board [ViktoriaZamkova](https://github.com/ViktoriaZamkova) and  [Hennadii Prokopenko](https://github.com/prokopenkoga1977) https://metroretro.io/board/LBZLQY6YBTKV -10 min 
+:black_square_button: Add you stikers to the Actions board [ViktoriaZamkova](https://github.com/ViktoriaZamkova) and  [Hennadii Prokopenko](https://github.com/prokopenkoga1977) https://metroretro.io/board/LBZLQY6YBTKV -10 min! 
 
 :black_square_button: Discuss questions from the team - 10 min!  
 
