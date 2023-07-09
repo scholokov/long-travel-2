@@ -22,7 +22,7 @@
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/1587 - High prior [AlonaSarapina](https://github.com/AlonaSarapina) -  ready to be shown 
  
-:black_square_button: https://github.com/scholokov/long-travel-2/issues/3148  High prior [AlonaSarapina](https://github.com/AlonaSarapina) -  ready to be shown      
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/3148  High prior [AlonaSarapina](https://github.com/AlonaSarapina) -  still not resolved     
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/3149 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   -  ready to be shown   
 
