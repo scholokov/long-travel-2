@@ -22,7 +22,11 @@
 
 :black_square_button: https://github.com/scholokov/long-travel-2/issues/3345 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   - still not resolved
 
-:black_square_button: https://github.com/scholokov/long-travel-2/issues/3470 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   - still not resolved
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/3470 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   - still not resolved 
+
+:black_square_button: https://github.com/scholokov/long-travel-2/issues/3469 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   - still not resolved 
+
+:black_square_button:  https://github.com/scholokov/long-travel-2/issues/1155 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   - still not resolved - please fix the bug
 
 :white_check_mark: https://github.com/scholokov/long-travel-2/issues/3011 - High prior [AlonaSarapina](https://github.com/AlonaSarapina)  - ready to be shown  
 
@@ -30,7 +34,7 @@
   
 :white_check_mark: https://github.com/scholokov/long-travel-2/issues/3149 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   -  ready to be shown   
 
-:white_check_mark: https://github.com/scholokov/long-travel-2/issues/3344 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   -  ready to be shown  
+:white_check_mark: https://github.com/scholokov/long-travel-2/issues/3344 High prior [AlonaSarapina](https://github.com/AlonaSarapina)   -  ready to be shown   
 
 Task to implement for Dev: https://github.com/scholokov/long-travel-2/issues/3078 - need to discuss with [Denis Scholokov](https://github.com/scholokov) 
 
