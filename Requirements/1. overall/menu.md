@@ -1,6 +1,7 @@
 1. Мають бути наступні пункти меню:
 
-![Зображення](image.png)
+![image](https://github.com/scholokov/long-travel-2/assets/22824947/cd0b97c9-2de3-4895-b038-9abce4da4061)
+
 
 | #   | Назва        | Slug
 | --- | ---          | ---
