@@ -1,8 +1,8 @@
 | Модуль    | Опис         | Вимоги                                    | Дизайн
 | ---       | ---          | ---                                       | ---
-| Загальне  |              | [Опис](https://github.com/scholokov/long-travel-2/blob/main/Requirements/Overall/overall.md) 
-|           | Головне меню | [Опис](https://github.com/scholokov/long-travel-2/blob/main/Requirements/Overall/main-menu.md) | [Дизайн](https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=0-1&t=7E9eu3VPTfTaBhg2-0)
-| | Мова | [Опис](https://github.com/scholokov/long-travel-2/wiki/1.2-%D0%9C%D0%BE%D0%B2%D0%B0) 
+| Загальне  |              | [Опис](https://github.com/scholokov/long-travel-2/blob/main/Requirements/1. overall/overall.md) 
+|           | Головне меню | [Опис](https://github.com/scholokov/long-travel-2/blob/main/Requirements/1. overall/menu.md) | [Дизайн](https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=0-1&t=7E9eu3VPTfTaBhg2-0)
+|           | Мова         | [Опис](https://github.com/scholokov/long-travel-2/blob/main/Requirements/1. overall/language.md) 
 | Головна (сторінка) | | [Опис](https://github.com/scholokov/long-travel-2/wiki/2.-%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) | [Дизайн](https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=0-1&t=7E9eu3VPTfTaBhg2-0)
 || Політична мапа | [Опис](https://github.com/scholokov/long-travel-2/wiki/2.1-%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0.-%D0%9F%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B0-%D0%BC%D0%B0%D0%BF%D0%B0) | [Дизайн](https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=0-1&t=7E9eu3VPTfTaBhg2-0)
 || Мапа з майбутніми планами | [Опис](https://github.com/scholokov/long-travel-2/wiki/2.2-%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0.-%D0%9C%D0%B0%D0%BF%D0%B0-%D0%B7-%D0%BC%D0%B0%D0%B9%D0%B1%D1%83%D1%82%D0%BD%D1%96%D0%BC%D0%B8-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0%D0%BC%D0%B8) | [Дизайн](https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=0-1&t=7E9eu3VPTfTaBhg2-0) 
