@@ -3,7 +3,7 @@
 
 | Модуль    | Опис         | Вимоги                                    | Дизайн
 | ---       | ---          | ---                                       | ---
-| Загальне  |              | [Опис](Requirements/Overall/overall.md) 
+| Загальне  |              | [Опис](https://github.com/scholokov/long-travel-2/Requirements/Overall/overall.md) 
 |           | Головне меню | [Опис](Requirements/Overall/main-menu.md) | [Дизайн](https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=0-1&t=7E9eu3VPTfTaBhg2-0)
 | | Мова | [Опис](https://github.com/scholokov/long-travel-2/wiki/1.2-%D0%9C%D0%BE%D0%B2%D0%B0) 
 | Головна (сторінка) | | [Опис](https://github.com/scholokov/long-travel-2/wiki/2.-%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) | [Дизайн](https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=0-1&t=7E9eu3VPTfTaBhg2-0)
