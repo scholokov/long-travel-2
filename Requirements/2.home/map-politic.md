@@ -1,3 +1,5 @@
+[Повернутися на головну](https://github.com/scholokov/long-travel-2/blob/main/Requirements/Requirements.md) 
+
 Складається з 3 блоків:
 
 1. Глобальна політична мапа

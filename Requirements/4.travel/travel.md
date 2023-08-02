@@ -1,3 +1,5 @@
+[Повернутися на головну](https://github.com/scholokov/long-travel-2/blob/main/Requirements/Requirements.md) 
+
 <details>
     <summary><h1>1. Структура подорожі</h1></summary> 
     <img width="345" alt="image" src="https://github.com/scholokov/long-travel-2/assets/22824947/3c10862c-ab27-4baf-bcf2-42391112dd39">
