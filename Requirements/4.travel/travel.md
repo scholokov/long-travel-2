@@ -520,7 +520,7 @@ https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=986%3A6&t=
 
 1.3.3.2.2 Натисніть на прев'ю фото - відображається повноцінне фото (LightBox)
 
-1.3.3.2.3 Тип фотогалереї повинен бути Justified Grid:
+1.3.3.2.3 Тип фотогалереї повинен бути Mosaic:
 
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/22824947/178441236-9305e6b2-12b7-4d59-b062-e0e9dcc4b670.png">
 
