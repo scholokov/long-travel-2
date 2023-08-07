@@ -522,21 +522,22 @@ https://www.figma.com/file/mh7iDnG6ec7yiC0SCGad7L/Long-Travel?node-id=986%3A6&t=
 
 1.3.3.2.3 Тип фотогалереї повинен бути Mosaic:
 
-<img width="628" alt="image" src="https://user-images.githubusercontent.com/22824947/178441236-9305e6b2-12b7-4d59-b062-e0e9dcc4b670.png">
+![image](https://github.com/scholokov/long-travel-2/assets/22824947/8a8488ae-bdbc-4fa8-9934-7e26e352d6b1)
 
 для того щоб перевірити, відкриваємо дев тулс
 
-шукаємо div:
+шукаємо div. У ньмоу ключ layout повинен мати значення "mosaic"
 
-![image](https://user-images.githubusercontent.com/22824947/195586969-b8eb9423-ded6-456f-96be-cd5b2b1a729e.png)
-
-у ньмоу ключ layout повинен мати значення "random"
-
-![image](https://user-images.githubusercontent.com/22824947/206526318-9028b7dc-f616-4698-a73a-885dc941e1c3.png)
-
+<img width="1271" alt="image" src="https://github.com/scholokov/long-travel-2/assets/22824947/19fb6ae2-5e3a-4257-90c9-b7612fb9df74">
 
 приклади:
+
 правильна:
+layout=mosaic
+
+<img width="658" alt="image" src="https://github.com/scholokov/long-travel-2/assets/22824947/2bece2c3-b5f8-4852-847f-fd4bd9150a8c">
+
+неправильна:
 layout=random
 ![image](https://user-images.githubusercontent.com/22824947/206524459-40e71837-3bf1-4e87-934d-c763123269c0.png)
 
