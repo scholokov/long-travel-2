@@ -545,6 +545,17 @@ layout=random
 layout=square
 ![image](https://user-images.githubusercontent.com/22824947/206524273-4a38f19d-5812-433a-b1ac-c87a513ed5d5.png)
 
+1.3.3.2.4 Перша галерея має завантажуватися одразу
+
+1.3.3.2.5 Всі наступні галереї НЕ мають завантажуватися одразу
+
+1.3.3.2.5.1 Замість незавантаженої галереї має відображатися кнопка "Відобразити галерею"
+
+<img width="373" alt="image" src="https://github.com/scholokov/long-travel-2/assets/22824947/d5f4b5ba-e2e7-43fd-b722-dd0fbe3bc294">
+
+1.3.3.2.5.2 Після натискання на кнопку "Відобразити галерею" має завантажиись та відобразиться відповідна галерея
+
+
 1.3.3.3. LightBox
 
 ![](https://github.com/scholokov/long-travel-2/blob/main/Foto/LightBox.JPG)
