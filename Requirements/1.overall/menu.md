@@ -7,4 +7,4 @@
 
 ![image](https://github.com/scholokov/long-travel-2/assets/22824947/cd0b97c9-2de3-4895-b038-9abce4da4061)
 
-<table data-full-width="true"><thead><tr><th width="55.333333333333314">#</th><th>Назва</th><th>Slug</th></tr></thead><tbody><tr><td>2.1</td><td>Головна</td><td></td></tr><tr><td>2.2</td><td>Подорожі</td><td>travels</td></tr><tr><td>2.3</td><td>Пошук</td><td>search</td></tr><tr><td>2.4</td><td>Цікаві місця</td><td>places</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="86.33333333333331">#</th><th>Назва</th><th>Slug</th></tr></thead><tbody><tr><td>2.1</td><td>Головна</td><td></td></tr><tr><td>2.2</td><td>Подорожі</td><td>travels</td></tr><tr><td>2.3</td><td>Пошук</td><td>search</td></tr><tr><td>2.4</td><td>Цікаві місця</td><td>places</td></tr></tbody></table>
