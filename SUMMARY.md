@@ -20,7 +20,7 @@
   * [Meeting notes 31.05.23](<Meeting notes/Meeting notes 31.05.23.md>)
 * [Requirements](Requirements/README.md)
   * [Вимоги](Requirements/Requirements.md)
-  * [1.overall](Requirements/1.overall/README.md)
+  * [Загальне](Requirements/1.overall/README.md)
     * [language](Requirements/1.overall/language.md)
     * [menu](Requirements/1.overall/menu.md)
     * [overall](Requirements/1.overall/overall.md)
