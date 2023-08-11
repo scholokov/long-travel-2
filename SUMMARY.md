@@ -32,6 +32,6 @@
   * [Подорож - шаблонована сторінка](Requirements/4.travel/README.md)
     * [tags](Requirements/4.travel/tags.md)
     * [Подорожі - список](Requirements/4.travel/travels-list.md)
-    * [Подорожу - теги](requirements/4.travel/travels-list-1.md)
+    * [Подорожі - теги](requirements/4.travel/travels-list-1.md)
   * [Цікаві місця](Requirements/5.places/README.md)
     * [places](Requirements/5.places/places.md)
