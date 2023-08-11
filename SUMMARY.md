@@ -29,7 +29,7 @@
   * [Подорожі - Сторінка](Requirements/3.travels/README.md)
     * [map-routs](Requirements/3.travels/map-routs.md)
     * [Пошук](Requirements/3.travels/search.md)
-  * [4.travel](Requirements/4.travel/README.md)
+  * [Подорож - шаблонована сторінка](Requirements/4.travel/README.md)
     * [tags](Requirements/4.travel/tags.md)
     * [travel](Requirements/4.travel/travel.md)
     * [travels-list](Requirements/4.travel/travels-list.md)
