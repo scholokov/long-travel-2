@@ -33,5 +33,4 @@
     * [tags](Requirements/4.travel/tags.md)
     * [Подорожі - список](Requirements/4.travel/travels-list.md)
     * [Подорожі - теги](requirements/4.travel/travels-list-1.md)
-  * [Цікаві місця](Requirements/5.places/README.md)
-    * [places](Requirements/5.places/places.md)
+  * [Цікаві місця](requirements/places.md)
