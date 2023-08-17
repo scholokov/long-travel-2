@@ -18,6 +18,7 @@
 
 2 - 5 відносяться до подорожі
 
+![image](https://github.com/scholokov/long-travel-2/assets/22824947/f81d4723-5891-4c12-9d73-0a3e51e24a11)
 
 
 <details>
@@ -30,11 +31,13 @@
 
 1.0.1 Складається з
 
+
+
 <details>
 
 <summary>Прев'ю подорожі</summary>
 
-![image](https://github.com/scholokov/long-travel-2/assets/22824947/f81d4723-5891-4c12-9d73-0a3e51e24a11)
+
 
 1.1.1 Складається з
 
