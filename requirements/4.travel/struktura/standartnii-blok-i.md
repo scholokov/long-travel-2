@@ -1,17 +1,17 @@
 # Стандартний блок(и)
 
-<details>
+<figure><img src="https://github.com/scholokov/long-travel-2/assets/22824947/c0e93afa-70c0-4a26-8107-45908b8bd6b7" alt=""><figcaption></figcaption></figure>
 
-<summary>Стандартний блок(и)</summary>
-
-<img src="https://github.com/scholokov/long-travel-2/assets/22824947/c0e93afa-70c0-4a26-8107-45908b8bd6b7" alt="image" data-size="original">
-
-#### 1.3 Стандартний блок(и)
+**1.3 Стандартний блок(и)**
 
 1.3.1 Складається з
 
-* Header (Прев'ю) ![image](https://github.com/scholokov/long-travel-2/assets/22824947/3f35fb7a-f481-446a-b397-d836892dfe9d)
-* Body ![image](https://github.com/scholokov/long-travel-2/assets/22824947/6df61b98-db2c-48e9-9576-95084326c7ed)
+*   Header (Прев'ю)&#x20;
+
+    <figure><img src="https://github.com/scholokov/long-travel-2/assets/22824947/3f35fb7a-f481-446a-b397-d836892dfe9d" alt=""><figcaption></figcaption></figure>
+*   Body&#x20;
+
+    <figure><img src="https://github.com/scholokov/long-travel-2/assets/22824947/6df61b98-db2c-48e9-9576-95084326c7ed" alt=""><figcaption></figcaption></figure>
 
 1.3.1.1 Header (Прев'ю) складається з
 
@@ -49,23 +49,27 @@
 
 1.3.3.2.3 Тип фотогалереї повинен бути Mosaic:
 
-<img src="https://github.com/scholokov/long-travel-2/assets/22824947/8a8488ae-bdbc-4fa8-9934-7e26e352d6b1" alt="image" data-size="original">
+<figure><img src="https://github.com/scholokov/long-travel-2/assets/22824947/8a8488ae-bdbc-4fa8-9934-7e26e352d6b1" alt=""><figcaption></figcaption></figure>
 
 для того щоб перевірити, відкриваємо дев тулс
 
 шукаємо div. У ньмоу ключ layout повинен мати значення "mosaic"
 
-<img src="https://github.com/scholokov/long-travel-2/assets/22824947/19fb6ae2-5e3a-4257-90c9-b7612fb9df74" alt="image" data-size="original">
+<figure><img src="https://github.com/scholokov/long-travel-2/assets/22824947/19fb6ae2-5e3a-4257-90c9-b7612fb9df74" alt=""><figcaption></figcaption></figure>
 
 приклади:
 
 правильна: layout=mosaic
 
-<img src="https://github.com/scholokov/long-travel-2/assets/22824947/2bece2c3-b5f8-4852-847f-fd4bd9150a8c" alt="image" data-size="original">
+<figure><img src="https://github.com/scholokov/long-travel-2/assets/22824947/2bece2c3-b5f8-4852-847f-fd4bd9150a8c" alt=""><figcaption></figcaption></figure>
 
-неправильна: layout=random ![image](https://user-images.githubusercontent.com/22824947/206524459-40e71837-3bf1-4e87-934d-c763123269c0.png)
+неправильна: layout=random&#x20;
 
-неправильна: layout=square ![image](https://user-images.githubusercontent.com/22824947/206524273-4a38f19d-5812-433a-b1ac-c87a513ed5d5.png)
+<figure><img src="https://user-images.githubusercontent.com/22824947/206524459-40e71837-3bf1-4e87-934d-c763123269c0.png" alt=""><figcaption></figcaption></figure>
+
+неправильна: layout=square&#x20;
+
+<figure><img src="https://user-images.githubusercontent.com/22824947/206524273-4a38f19d-5812-433a-b1ac-c87a513ed5d5.png" alt=""><figcaption></figcaption></figure>
 
 1.3.3.2.4 Перша галерея має завантажуватися одразу
 
@@ -73,13 +77,11 @@
 
 1.3.3.2.5.1 Замість незавантаженої галереї має відображатися кнопка "Відобразити галерею"
 
-<img src="https://github.com/scholokov/long-travel-2/assets/22824947/d5f4b5ba-e2e7-43fd-b722-dd0fbe3bc294" alt="image" data-size="original">
+<figure><img src="https://github.com/scholokov/long-travel-2/assets/22824947/d5f4b5ba-e2e7-43fd-b722-dd0fbe3bc294" alt=""><figcaption></figcaption></figure>
 
 1.3.3.2.5.2 Після натискання на кнопку "Відобразити галерею" має завантажиись та відобразиться відповідна галерея
 
 1.3.3.3. LightBox
-
-<img src="../../../Foto/LightBox.JPG" alt="" data-size="original">
 
 1.3.3.3.1 LightBox повинен закриватися за ESC
 
@@ -144,9 +146,3 @@
 1.3.4.1.3.3 Формат дати зворотній - YYYY.MM.DD, наприклад 2020.01.30
 
 1.3.4.1.4 Якщо в відео галереї знаходиться декілька відео та вони мають різні дати, у назві має бути присутня лише сама рання дата (а не діапазон дат)
-
-1.3.4.1.5 Ім'я та прізвище автора мають бути на анг мові
-
-<img src="https://github.com/scholokov/long-travel-2/assets/22824947/31c7bbcf-14b6-43cb-8d25-2ea8baea5327" alt="image" data-size="original">
-
-</details>

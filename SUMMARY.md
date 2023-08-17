@@ -35,7 +35,7 @@
       * [Мапа](requirements/4.travel/struktura/mapa.md)
       * [Стандартний блок(и)](requirements/4.travel/struktura/standartnii-blok-i.md)
       * [Дата публікації](requirements/4.travel/struktura/data-publikaciyi.md)
-    * [tags](Requirements/4.travel/tags.md)
     * [Подорожі - список](Requirements/4.travel/travels-list.md)
+    * [tags](Requirements/4.travel/tags.md)
     * [Подорожі - теги](requirements/4.travel/travels-list-1.md)
   * [Цікаві місця](requirements/places.md)
