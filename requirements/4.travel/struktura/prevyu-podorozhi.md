@@ -1,8 +1,6 @@
 # Прев'ю подорожі
 
-<details>
-
-<summary>Прев'ю подорожі</summary>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 1.1.1 Складається з
 
@@ -45,5 +43,3 @@
 `DD.MM.YYYY - DD.MM.YYYY`
 
 1.1.5 Прев'ю (картинка) - має бути унікальним у розрізі всіх подорожей
-
-</details>
