@@ -2,7 +2,7 @@
 
 * [✈️: QAX Travel 2.0 🚅:](README.md)
 * [Meeting notes](<Meeting notes/README.md>)
-  * [Meeting notes 01.02.23](<Meeting notes/Meeting notes 01.02.23.md>)
+  * [Meeting notes 01.02.23](meeting-notes/meeting-notes-01.02.23.md)
   * [Meeting notes 03.05.23](<Meeting notes/Meeting notes 03.05.23.md>)
   * [Meeting notes 04.01.23](<Meeting notes/Meeting notes 04.01.23.md>)
   * [Meeting notes 05.04.23](<Meeting notes/Meeting notes 05.04.23.md>)
@@ -37,6 +37,6 @@
         * [Типи стандартних блоків](requirements/4.travel/struktura/standartnii-blok-i/tipi-standartnikh-blokiv.md)
       * [Дата публікації](requirements/4.travel/struktura/data-publikaciyi.md)
     * [Подорожі - список](Requirements/4.travel/travels-list.md)
-    * [tags](Requirements/4.travel/tags.md)
+    * [Теги](Requirements/4.travel/tags.md)
     * [Подорожі - теги](requirements/4.travel/travels-list-1.md)
   * [Цікаві місця](requirements/places.md)
