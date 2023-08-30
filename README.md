@@ -1,5 +1,18 @@
 ## ✈️: QAX Travel 2.0 🚅: 
 
+
+[Requirements](https://qax.gitbook.io/qax-travel/)
+
+[Reports](https://github.com/scholokov/long-travel-2/tree/8d7bda4dc0da87f88e6d5efe00ef83fc1d22ec67/Report)
+
+[Meeting Notes](https://github.com/scholokov/long-travel-2/tree/730920448781b29f7b98ba43ee3013c37d16580c/Meeting%20notes)
+
+
+
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QAX+Travel+Job_offer)](https://git.io/typing-svg) 
 
 👨‍🎓 ![QAX](https://user-images.githubusercontent.com/72439798/183895287-16881555-2ad2-4f11-85ee-51354901f216.PNG) 👩‍ 
