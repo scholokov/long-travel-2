@@ -1,43 +1,47 @@
-## ✈️: QAX Travel 2.0 🚅: 
+# ✈️: QAX Travel 2.0 🚅:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QAX+Travel+Job_offer)](https://git.io/typing-svg) 
+[Reports](https://github.com/scholokov/long-travel-2/tree/8d7bda4dc0da87f88e6d5efe00ef83fc1d22ec67/Report)
 
-👨‍🎓 ![QAX](https://user-images.githubusercontent.com/72439798/183895287-16881555-2ad2-4f11-85ee-51354901f216.PNG) 👩‍ 
 
-<img src="https://media.giphy.com/media/3oKIPDf1E4qKYRJ6oM/giphy-downsized-large.gif" />
 
-### All our resources you can find below:
- 
-[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/instagram-png-instagram-png-logo-1455-1024x1024.png)](https://www.instagram.com/qax_camp/?igshid=YmMyMTA2M2Y%3D)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7\&lines=QAX+Travel+Job\_offer)](https://git.io/typing-svg)
 
-[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/facebook-icon-logo-C61047A9E7-seeklogo.com.png)](https://www.facebook.com/qax.camp) 
+👨‍🎓 ![QAX](https://user-images.githubusercontent.com/72439798/183895287-16881555-2ad2-4f11-85ee-51354901f216.PNG) 👩‍
 
-[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/2560px-Logo_of_YouTube_(2015-2017).svg.png)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
+![](https://media.giphy.com/media/3oKIPDf1E4qKYRJ6oM/giphy-downsized-large.gif)
 
-[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)](https://portal.qax-camp.com.ua) 
+## All our resources you can find below:
 
-[![Снимок](https://user-images.githubusercontent.com/72439798/211194187-64aad7ab-2fa0-4ecd-831a-a3ff88b43155.PNG)](https://test.long-travel.live/) 
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/instagram-png-instagram-png-logo-1455-1024x1024.png)](https://www.instagram.com/qax\_camp/?igshid=YmMyMTA2M2Y%3D)
+
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/facebook-icon-logo-C61047A9E7-seeklogo.com.png)](https://www.facebook.com/qax.camp)
+
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/2560px-Logo\_of\_YouTube\_\(2015-2017\).svg.png)](https://www.youtube.com/channel/UCXXCVCk7gw0aa8T0a6cx7Ow)
+
+[![QAX](https://github.com/scholokov/qax-portal-2/blob/main/drive/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)](https://portal.qax-camp.com.ua)
+
+[![Снимок](https://user-images.githubusercontent.com/72439798/211194187-64aad7ab-2fa0-4ecd-831a-a3ff88b43155.PNG)](https://test.long-travel.live/)
 
 Each meeting is in a folder labeled by the date of the meeting. Below is a list of meetings that link the the meeting's folder. :book:
 
-### List of meetings ✍️ 
+## List of meetings ✍️
 
-| Meeting Title                                     | Date              | 
-|---------------------------------------------------|-------------------|
+| Meeting Title                                                  | Date       |
+| -------------------------------------------------------------- | ---------- |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2016.08.23.md) | 16/08/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2012.07.23.md) | 12/07/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2021.06.23.md) | 21/06/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2031.05.23.md) | 31/05/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2024.05.23.md) | 24/05/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2003.05.23.md) | 03/05/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2019.04.23.md) | 19/04/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2012.04.23.md) | 12/04/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2005.04.23.md) | 05/04/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2015.03.23.md) | 15/03/2023 | 
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2022.02.23.md) | 22/02/2023 | 
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2008.02.23.md) | 08/02/2023 | 
-| [Meeting notes](Meeting%20notes/01.02.23_Meeting%20notes.md) | 01/02/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2018.01.23.md) | 18/01/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2011.01.23.md) | 11/01/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2004.01.23.md) | 04/01/2023 |
-| [Meeting notes](Meeting%20notes/Meeting%20notes%2028.12.22.md) | 28/12/2022 | 
+| [Meeting notes](broken-reference)                              | 12/07/2023 |
+| [Meeting notes](broken-reference)                              | 21/06/2023 |
+| [Meeting notes](broken-reference)                              | 31/05/2023 |
+| [Meeting notes](broken-reference)                              | 24/05/2023 |
+| [Meeting notes](broken-reference)                              | 03/05/2023 |
+| [Meeting notes](broken-reference)                              | 19/04/2023 |
+| [Meeting notes](broken-reference)                              | 12/04/2023 |
+| [Meeting notes](broken-reference)                              | 05/04/2023 |
+| [Meeting notes](broken-reference)                              | 15/03/2023 |
+| [Meeting notes](broken-reference)                              | 22/02/2023 |
+| [Meeting notes](broken-reference)                              | 08/02/2023 |
+| [Meeting notes](Meeting%20notes/01.02.23\_Meeting%20notes.md)  | 01/02/2023 |
+| [Meeting notes](broken-reference)                              | 18/01/2023 |
+| [Meeting notes](broken-reference)                              | 11/01/2023 |
+| [Meeting notes](broken-reference)                              | 04/01/2023 |
+| [Meeting notes](broken-reference)                              | 28/12/2022 |
