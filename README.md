@@ -2,7 +2,7 @@
 
 Links
 
-Requirements
+[Requirements](https://qax.gitbook.io/qax-travel/)
 
 [Reports](https://github.com/scholokov/long-travel-2/tree/8d7bda4dc0da87f88e6d5efe00ef83fc1d22ec67/Report)
 
