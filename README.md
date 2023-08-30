@@ -1,8 +1,12 @@
 # ✈️: QAX Travel 2.0 🚅:
 
+Links
+
+Requirements
+
 [Reports](https://github.com/scholokov/long-travel-2/tree/8d7bda4dc0da87f88e6d5efe00ef83fc1d22ec67/Report)
 
-
+[Meeting Notes](https://github.com/scholokov/long-travel-2/tree/730920448781b29f7b98ba43ee3013c37d16580c/Meeting%20notes)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7\&lines=QAX+Travel+Job\_offer)](https://git.io/typing-svg)
 
@@ -29,19 +33,19 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 | Meeting Title                                                  | Date       |
 | -------------------------------------------------------------- | ---------- |
 | [Meeting notes](Meeting%20notes/Meeting%20notes%2016.08.23.md) | 16/08/2023 |
-| [Meeting notes](broken-reference)                              | 12/07/2023 |
-| [Meeting notes](broken-reference)                              | 21/06/2023 |
-| [Meeting notes](broken-reference)                              | 31/05/2023 |
-| [Meeting notes](broken-reference)                              | 24/05/2023 |
-| [Meeting notes](broken-reference)                              | 03/05/2023 |
-| [Meeting notes](broken-reference)                              | 19/04/2023 |
-| [Meeting notes](broken-reference)                              | 12/04/2023 |
-| [Meeting notes](broken-reference)                              | 05/04/2023 |
-| [Meeting notes](broken-reference)                              | 15/03/2023 |
-| [Meeting notes](broken-reference)                              | 22/02/2023 |
-| [Meeting notes](broken-reference)                              | 08/02/2023 |
+| [Meeting notes](broken-reference/)                             | 12/07/2023 |
+| [Meeting notes](broken-reference/)                             | 21/06/2023 |
+| [Meeting notes](broken-reference/)                             | 31/05/2023 |
+| [Meeting notes](broken-reference/)                             | 24/05/2023 |
+| [Meeting notes](broken-reference/)                             | 03/05/2023 |
+| [Meeting notes](broken-reference/)                             | 19/04/2023 |
+| [Meeting notes](broken-reference/)                             | 12/04/2023 |
+| [Meeting notes](broken-reference/)                             | 05/04/2023 |
+| [Meeting notes](broken-reference/)                             | 15/03/2023 |
+| [Meeting notes](broken-reference/)                             | 22/02/2023 |
+| [Meeting notes](broken-reference/)                             | 08/02/2023 |
 | [Meeting notes](Meeting%20notes/01.02.23\_Meeting%20notes.md)  | 01/02/2023 |
-| [Meeting notes](broken-reference)                              | 18/01/2023 |
-| [Meeting notes](broken-reference)                              | 11/01/2023 |
-| [Meeting notes](broken-reference)                              | 04/01/2023 |
-| [Meeting notes](broken-reference)                              | 28/12/2022 |
+| [Meeting notes](broken-reference/)                             | 18/01/2023 |
+| [Meeting notes](broken-reference/)                             | 11/01/2023 |
+| [Meeting notes](broken-reference/)                             | 04/01/2023 |
+| [Meeting notes](broken-reference/)                             | 28/12/2022 |
