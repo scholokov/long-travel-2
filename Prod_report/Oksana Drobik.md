@@ -12,10 +12,6 @@ Number of tests with status Blocked: 24
 
 Number of tests with status Failed:  26 
 
-The number of bugs is opened: 
-
-The bugs NOT closed at the moment1
-
 Recommendations:
 
 29% of tests passed
