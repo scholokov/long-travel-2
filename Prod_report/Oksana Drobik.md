@@ -14,6 +14,8 @@ Number of tests with status Blocked: 24
 
 Number of tests with status Failed:  26 
 
+Number of tests with status N/A:  135
+
 Recommendations:
 
 29% of tests passed
