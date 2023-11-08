@@ -18,5 +18,7 @@ Recommendations:
 
 29% of tests passed
 
+Due to the absence of many errors in production, we can complete testing
+
 The project is ready for release
 
