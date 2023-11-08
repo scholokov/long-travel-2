@@ -1,6 +1,6 @@
 REPORT ON THE CONDUCTED TESTING PROJECT TRAVEL
 
-Date: 01.09.2023 - 08.11.2023
+Date: 18.10.2023 - 08.11.2023
 
 TEST RUN: https://qaxcampqa.testrail.io/index.php?/runs/view/164&group_by=cases:section_id&group_order=asc&group_id=1797
 
