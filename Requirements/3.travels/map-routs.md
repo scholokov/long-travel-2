@@ -4,7 +4,7 @@
 
 1. Список, що випадає з картами
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.1 "Global map" (глобальна карта, яка відображає відразу всі маршрути)
 
@@ -36,7 +36,7 @@
 
 2. Legend (легенда)
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.1 Повинні бути присутніми всі види транспорту, що використовуються в подорожах
 
@@ -46,7 +46,7 @@
 
 3. Map (мапа)
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.1 на карті повинні бути всі маршрути, присутні в розділі Travels
 
@@ -56,7 +56,7 @@
 
 4. Детальний Список подорожей
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 4.1 Кожна подорож має містити прев'ю
 
