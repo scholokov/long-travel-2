@@ -20,6 +20,5 @@
         * [Типи стандартних блоків](requirements/4.travel/struktura/standartnii-blok-i/tipi-standartnikh-blokiv.md)
       * [Дата публікації](requirements/4.travel/struktura/data-publikaciyi.md)
     * [Подорожі - список](Requirements/4.travel/travels-list.md)
-    * [Теги](Requirements/4.travel/tags.md)
     * [Подорожі - теги](requirements/4.travel/travels-list-1.md)
   * [Цікаві місця](requirements/places.md)
