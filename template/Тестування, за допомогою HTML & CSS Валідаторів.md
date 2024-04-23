@@ -28,6 +28,6 @@ Retest: Тестування, за допомогою HTML & CSS Валідат�
 
 | Назва | Посилання
 | --- | ---
-| LambdaTest & BrowserStack | [Посилання](https://qax-camp.com.ua/lessons/browserstack/)
+| LambdaTest & BrowserStack | [Посилання](https://www.qax-camp.com.ua/lessons/validators/)
   
 </details>
