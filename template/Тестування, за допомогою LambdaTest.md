@@ -27,7 +27,7 @@ Retest: Тестування, за допомогою LambdaTest
 
 | Назва | Посилання
 | --- | ---
-| LambdaTest & BrowserStack | [https://github.com/scholokov/long-travel-2/issues](https://qax-camp.com.ua/lessons/browserstack/)
+| LambdaTest & BrowserStack | [Посилання](https://qax-camp.com.ua/lessons/browserstack/)
   
 </details>
 
